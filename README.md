@@ -14,8 +14,6 @@ For detailed usage, see sample projects below.
 License
 -------
 
-The MIT License (MIT)
-
 Copyright (c) 2013 Keijiro Takahashi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
